@@ -1,4 +1,4 @@
-const fs = require("fs");
+/*const fs = require("fs");
 const inquirer = require("inquirer");
 inquirer
   .prompt([
@@ -33,4 +33,4 @@ inquirer
     );
     console.log("Generated logo.svg");
   })
-  .catch((error) => console.log("error", error));
+  .catch((error) => console.log("error", error));*/
