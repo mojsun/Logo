@@ -1,5 +1,7 @@
 # SVG Logo Maker
 
+[label](../../../../Untitled_%20Feb%2014,%202023%2011_28%20PM.webm)
+
 ## Table of Contents
 
 Installation
@@ -28,7 +30,7 @@ Vs code
 
 My Github: https://github.com/mojsun/Logo
 My Email: m.khorashahi7@gmail.com
-Receive help from Mario
+Received help from Mario
 
 ## License
 
