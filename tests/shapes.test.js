@@ -15,11 +15,11 @@ describe("Arithmetic", () => {
   });
 });*/
 
-const { circle, triangle, square } = require("../lib/shapes");
+const { circle, triangle, square } = require("../lib1/shapes1");
 
-const shapeColor = "black";
-const textColor = "green";
-const characters = "NAC";
+const shapeColor = "green";
+const textColor = "white";
+const characters = "Svg";
 const correctSquare = `<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
         <rect width="200" height="200" fill="${shapeColor}" />
         <text x="100" y="115" font-size="60" text-anchor="middle" fill="${textColor}">${characters}</text>
